@@ -1,0 +1,5 @@
+app:
+    base_url: 'https://your-awesome-api.com/'
+    template:
+        path: 'views'
+        cache_dir: 'caches'

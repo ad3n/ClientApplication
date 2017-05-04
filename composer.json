@@ -1,0 +1,11 @@
+{
+    "require": {
+        "ad3n/client-platform": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {"Application\\": "src/"},
+        "classmap": [
+            "Bootstrap.php"
+        ]
+    }
+}

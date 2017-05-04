@@ -1,0 +1,3 @@
+app:
+    routes:
+        - { path: '/', controller: 'Application:Home@index', methods: ['GET'] }
