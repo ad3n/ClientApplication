@@ -1,5 +1,8 @@
 app:
-    base_url: 'https://your-awesome-api.com/'
+    api:
+        base_url: 'https://your-awesome-api.com/'
+        api_key: 'xxx'
+        param_key: 'api_key'
     template:
         path: 'views'
         cache_dir: 'caches'
