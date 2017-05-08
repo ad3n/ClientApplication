@@ -1,7 +1,7 @@
 app:
     api:
-        base_url: 'https://your-awesome-api.com/'
-        api_key: 'xxx'
+        base_url: 'http://10.5.5.206:8000/api/'
+        api_key: '1cc0950db9c68a2aefd37a52c77d895a70c7343b'
         param_key: 'api_key'
     template:
         path: 'views'

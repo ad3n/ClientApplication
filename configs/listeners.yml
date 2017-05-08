@@ -1,1 +1,3 @@
 app:
+#    event_listeners:
+#        - { event: 'kernel.controller', class: 'Application\EventListener\SecurityListener', method: 'filterController', priority: 255 }

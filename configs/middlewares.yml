@@ -1,1 +1,3 @@
 app:
+#    middlewares:
+#        - { class: 'Application\Middleware\SecurityMiddleware' }
